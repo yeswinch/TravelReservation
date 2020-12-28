@@ -1,6 +1,5 @@
 # PrinInfo-DBTravelRes
 Principles Of Information and Data Management Travel reservation Project
-## Overview
 ## Importing
 Front-end Java files and JSP files are contained in zip files. Note draft 1 does not have back-end.
 This project connected the java files(with HTML/CSS contained within) to a locally hosted MYSQL 8.0 Server
